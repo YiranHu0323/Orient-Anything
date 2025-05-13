@@ -2,3 +2,4 @@
 .gradio
 .locks
 models*
+hy3dgen_delete/
